@@ -5,5 +5,3 @@ if __name__ == '__main__':
     array = ProductsList()
     array.loader(execute.file)
     array.execute(execute.where, execute.aggregate)
-
-        
